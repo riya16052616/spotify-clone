@@ -17,16 +17,16 @@ JavaScript (Basic DOM interaction)
 📸 Preview
 
 ### Screenshot 1
-[![Screenshot 1](assets/images/screenshot1.png)](assets/images/screenshot1.png)
+[![Screenshot 1](images/screenshot1.png)](images/Screenshot1.png)
 
 ### Screenshot 2
-[![Screenshot 2](assets/images/screenshot2.png)](assets/images/screenshot2.png)
+[![Screenshot 2](images/Screenshot2.png)](images/Screenshot2.png)
 
 ### Screenshot 3
-[![Screenshot 3](assets/images/screenshot3.png)](assets/images/screenshot3.png)
+[![Screenshot 3](images/Screenshot3.png)](images/Screenshot3.png)
 
 ### Screenshot 4
-[![Screenshot 4](assets/images/screenshot4.png)](assets/images/screenshot4.png)
+[![Screenshot 4](images/Screenshot4.png)](images/Screenshot4.png)
 
 
 🖥️ Desktop View
