@@ -15,6 +15,12 @@ CSS3 (Flexbox / Grid)
 JavaScript (Basic DOM interaction)
 
 📸 Preview
+
+![Screenshot 1](assets/images/screenshot1.png)
+
+![Screenshot 2](assets/images/screenshot2.png)
+
+![Screenshot 3](assets/images/screenshot3.png)
 🖥️ Desktop View
 
 Main interface of the Spotify-inspired UI built with responsive layout and sidebar navigation.
@@ -30,10 +36,10 @@ spotify-clone/
 ├── style.css
 ├── assests
 └── images
-    ├── screenshot.1.png
-    └── screenshot.2.png
-    └── screenshot.3.png
-    └── screenshot.4.png
+    ├── screenshot1.png
+    └── screenshot2.png
+    └── screenshot3.png
+    └── screenshot4.png
 
 What I Learned
 Structuring a complex UI using HTML & CSS
