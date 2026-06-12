@@ -17,7 +17,7 @@ JavaScript (Basic DOM interaction)
 📸 Preview
 
 ### Screenshot 1
-[![Screenshot 1](images/screenshot1.png)](images/Screenshot1.png)
+[![Screenshot 1](images/Screenshot1.png)](images/Screenshot1.png)
 
 ### Screenshot 2
 [![Screenshot 2](images/Screenshot2.png)](images/Screenshot2.png)
