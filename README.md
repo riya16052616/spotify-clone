@@ -42,8 +42,8 @@ spotify-clone/
 │
 ├── index.html
 ├── style.css
-├── assests/
-├── images/
+├── assests
+├── images
     ├── screenshot1.png
     └── screenshot2.png
     └── screenshot3.png
