@@ -30,10 +30,10 @@ spotify-clone/
 ├── style.css
 ├── assests
 └── images
-    ├── screenshot1.png
-    └── screenshot2.png
-    └── screenshot3.png
-    └── screenshot4.png
+    ├── screenshot.1.png
+    └── screenshot.2.png
+    └── screenshot.3.png
+    └── screenshot.4.png
 
 What I Learned
 Structuring a complex UI using HTML & CSS
