@@ -21,6 +21,7 @@ JavaScript (Basic DOM interaction)
 ![Screenshot 2](assets/images/screenshot2.png)
 
 ![Screenshot 3](assets/images/screenshot3.png)
+
 🖥️ Desktop View
 
 Main interface of the Spotify-inspired UI built with responsive layout and sidebar navigation.
@@ -35,7 +36,7 @@ spotify-clone/
 ├── index.html
 ├── style.css
 ├── assests
-└── images
+├── images
     ├── screenshot1.png
     └── screenshot2.png
     └── screenshot3.png
