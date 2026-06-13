@@ -57,7 +57,7 @@ DOM manipulation basics in JavaScript
 Improving UI consistency and spacing
 
 Live Demo
- https://riya16052616.github.io/spotify-clone/
+ 🔗 [View Live Project](https://riya16052616.github.io/spotify-clone/)
 
 Future Improvements
 Add real audio playback functionality 🎶
