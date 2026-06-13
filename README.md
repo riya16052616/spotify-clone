@@ -12,7 +12,7 @@ It replicates the look and feel of the Spotify web player with a focus on layout
 🛠️ Tech Stack
 HTML5
 CSS3 (Flexbox / Grid)
-JavaScript (Basic DOM interaction)
+JavaScript (Basic DOM interaction) [apply in future]
 
 📸 Preview
 
@@ -35,7 +35,7 @@ Main interface of the Spotify-inspired UI built with responsive layout and sideb
 
 📱 Responsive Design
 
-The layout adjusts smoothly for mobile and tablet screens.[working on that ] 
+The layout adjusts smoothly for mobile and tablet screens.[working on it ] 
 
 Project Structure
 spotify-clone/
@@ -53,8 +53,6 @@ What I Learned
 Structuring a complex UI using HTML & CSS
 Flexbox layout design
 Responsive web design principles
-DOM manipulation basics in JavaScript
-Improving UI consistency and spacing
 
 Live Demo
  🔗 [View Live Project](https://riya16052616.github.io/spotify-clone/)
